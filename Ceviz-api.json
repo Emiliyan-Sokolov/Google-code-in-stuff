@@ -12,8 +12,16 @@
     "facebook": "https://www.facebook.com/ceviznet?ref=ts&fref=ts",
     "twitter": "@Ceviz_Net"
   },
+  "feeds": [
+    {
+      "name": "Ceviz Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.ceviz.net/feed/"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-10T17:32:51.452Z"
+    "lastchange": "2014-12-10T23:41:34.212Z"
   },
   "api": "1.0.0"
 }

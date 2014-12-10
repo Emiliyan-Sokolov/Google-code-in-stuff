@@ -1,0 +1,19 @@
+{
+  "name": "Ceviz",
+  "url": "http://www.ceviz.net/",
+  "location": {
+    "city": "Istanbul",
+    "country": "TR",
+    "lat": 41.0186111,
+    "lon": 28.9647222
+  },
+  "contact": {
+    "email": "info@ceviz.net",
+    "facebook": "https://www.facebook.com/ceviznet?ref=ts&fref=ts",
+    "twitter": "@Ceviz_Net"
+  },
+  "state": {
+    "lastchange": "2014-12-10T17:32:51.452Z"
+  },
+  "api": "1.0.0"
+}
